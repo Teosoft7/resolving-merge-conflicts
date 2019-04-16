@@ -1,4 +1,4 @@
-class Snake:
+:qclass Snake:
     """A dangerous and/or harmless serpent."""
     pass
 
@@ -16,7 +16,7 @@ class BoaConstrictor(Snake):
     
     def squeeze(self, other):
         """Give a hug."""
-        pass
+        print("H~~~~~~u~~~~~g")
 
     
 class BoatConstrictor(BoaConstrictor):
